@@ -1,11 +1,9 @@
 # myapp
 
 A new Flutter project.
-- ![image](https://github.com/user-attachments/assets/7370c2b8-bfa0-49ce-93ea-591dcb5cff42)
+- ![image](https://github.com/user-attachments/assets/d6e0df84-d3f0-4ea7-8d45-c3567e63739f)
 
-- ![image](https://github.com/user-attachments/assets/f7fe6fb7-ae7e-4653-862d-246c13758989)
-
-- ![image](https://github.com/user-attachments/assets/6cc9fa6b-de2c-4a19-8a38-d1fc99769c52)
+- ![image](https://github.com/user-attachments/assets/12ba1564-0b37-4035-a2b5-eeedac321b6a)
 
 - ![tabla](https://github.com/user-attachments/assets/824f2082-b1e6-4218-9134-59f14b07a711)
 
